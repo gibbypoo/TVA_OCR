@@ -1,0 +1,13 @@
+C:\Users\tabowma0\Desktop\Working Projects\TestArea\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\bin\Debug\SimpleOCRWithCMDLine.exe.config
+C:\Users\tabowma0\Desktop\Working Projects\TestArea\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\bin\Debug\SimpleOCRWithCMDLine.exe
+C:\Users\tabowma0\Desktop\Working Projects\TestArea\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\bin\Debug\SimpleOCRWithCMDLine.pdb
+C:\Users\tabowma0\Desktop\Working Projects\TestArea\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\bin\Debug\System.Management.Automation.dll
+C:\Users\tabowma0\Desktop\Working Projects\TestArea\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\obj\Debug\SimpleOCRWithCMDLine.csprojResolveAssemblyReference.cache
+C:\Users\tabowma0\Desktop\Working Projects\TestArea\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\obj\Debug\SimpleOCRWithCMDLine.exe
+C:\Users\tabowma0\Desktop\Working Projects\TestArea\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\obj\Debug\SimpleOCRWithCMDLine.pdb
+C:\Users\tabowma0\Desktop\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\bin\Debug\SimpleOCRWithCMDLine.exe.config
+C:\Users\tabowma0\Desktop\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\bin\Debug\SimpleOCRWithCMDLine.exe
+C:\Users\tabowma0\Desktop\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\bin\Debug\SimpleOCRWithCMDLine.pdb
+C:\Users\tabowma0\Desktop\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\obj\Debug\SimpleOCRWithCMDLine.csprojResolveAssemblyReference.cache
+C:\Users\tabowma0\Desktop\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\obj\Debug\SimpleOCRWithCMDLine.exe
+C:\Users\tabowma0\Desktop\SimpleOCRWithCMDLine\SimpleOCRWithCMDLine\obj\Debug\SimpleOCRWithCMDLine.pdb
