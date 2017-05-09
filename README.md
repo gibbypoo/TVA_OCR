@@ -21,4 +21,4 @@ Example: tesseract myTag.jpg output
 
 This will take in the myTag.jpg image, put it through the OCR engine and spit out the result into the output file
 
-I've also included a simple command line application that does this same thing but outputs the result instead of having to open the output text file on each run
+I've also included a simple console application that does this same thing but outputs the result instead of having to open the output text file on each run (Note: you'll need to change the path names in the app code to match the path of your clone)
