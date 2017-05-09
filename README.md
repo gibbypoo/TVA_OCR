@@ -10,9 +10,11 @@ I've included several pictures of UNID tags that were sent to me:
 4. tag3.jpg
 5. shinyPic.jpg (from nuke site)
 
-Basic command line usage:
+## Basic command line usage:
 
+```
 tesseract imagename outputbase [-l lang] [--psm pagesegmode] [configfiles...]
+```
 For more information about the various command line options use tesseract --help or man tesseract.
 
 Example: tesseract myTag.jpg output
