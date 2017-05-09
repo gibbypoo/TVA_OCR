@@ -12,18 +12,20 @@ namespace SimpleOCRWithCMDLine
     {
         static void Main(string[] args)
         {
-            //Run the tesseract job to OCR the picture
+            // Run the tesseract job to OCR the picture
+            // NOTE: change path to match your folder structure
             System.Environment.CurrentDirectory = @"C:\Users\tabowma0\Desktop\Tesseract-OCR";
 
-            //myTag.jpg, tag1.jpg, tag2.jpg, tag3.jpg, shinyPic.jpg
+            // myTag.jpg, tag1.jpg, tag2.jpg, tag3.jpg, shinyPic.jpg
             System.Diagnostics.Process.Start("tesseract", "myTag.jpg output");
 
             string UNID;        
 
-            //Read the file and save the UNID
+            // Read the file and save the UNID
+            // NOTE: change path to match your folder structure
             using (System.IO.StreamReader file = new System.IO.StreamReader("C:\\Users\\tabowma0\\Desktop\\Tesseract-OCR\\output.txt"))
             {
-                //UNID = file.ReadLine() ?? "";
+                // UNID = file.ReadLine() ?? "";
                 while ((UNID = file.ReadLine())!=null)
                 {
                     if (UNID != "" && UNID != " ")
